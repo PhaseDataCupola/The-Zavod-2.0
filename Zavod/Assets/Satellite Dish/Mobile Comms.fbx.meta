@@ -1,5 +1,12 @@
 fileFormatVersion: 2
 guid: 632eb3dd7aacc1744a4c6f27093ed854
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3703
+  packageName: 'Satellite Comms '
+  packageVersion: 1.0
+  assetPath: Assets/Satellite Dish/Mobile Comms.fbx
+  uploadId: 26568
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable:
@@ -12,12 +19,27 @@ ModelImporter:
   - first:
       43: 4300004
     second: Comms__Dish
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FlightCase_Material
+    second: {fileID: 2100000, guid: 553f5ecd3b9dc40468b33501db2d1ef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laptop_Material
+    second: {fileID: 2100000, guid: d838a637e83d8f64cb5c737719808871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Satellite_Material
+    second: {fileID: 2100000, guid: 92d54a9a3c428384c987f88558d728e4, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -117,10 +139,3 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 3703
-  packageName: 'Satellite Comms '
-  packageVersion: 1.0
-  assetPath: Assets/Satellite Dish/Mobile Comms.fbx
-  uploadId: 26568
