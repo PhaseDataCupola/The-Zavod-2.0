@@ -97,8 +97,5 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
-/Assets/JustPlay
-/Assets/LoafbrrAssets
-/Assets/Plugins/iOS
-/Assets/Plugins/iOS.meta
+/Assets
 !*.meta
