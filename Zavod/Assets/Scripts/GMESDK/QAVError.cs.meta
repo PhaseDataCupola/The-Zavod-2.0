@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f7b3275b0dab1417a98a0f2c9ce67cf5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148823
+  packageName: In-Game Voice Chat-GME
+  packageVersion: 2.9.6
+  assetPath: Assets/Scripts/GMESDK/QAVError.cs
+  uploadId: 600277

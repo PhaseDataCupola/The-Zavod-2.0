@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64c0301e4f3234cf68ccf4276d952267
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148823
+  packageName: In-Game Voice Chat-GME
+  packageVersion: 2.9.6
+  assetPath: Assets/Scripts/GMESDK/QAVAuthBuffer.cs
+  uploadId: 600277

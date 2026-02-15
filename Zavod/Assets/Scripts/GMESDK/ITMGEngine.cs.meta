@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 650ac8915154744a8b6f94e83925b8dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148823
+  packageName: In-Game Voice Chat-GME
+  packageVersion: 2.9.6
+  assetPath: Assets/Scripts/GMESDK/ITMGEngine.cs
+  uploadId: 600277
