@@ -93,6 +93,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites: []
@@ -120,5 +133,5 @@ AssetOrigin:
   productId: 3703
   packageName: 'Satellite Comms '
   packageVersion: 1.0
-  assetPath: Assets/Satellite Dish/textures/1K_Comms_Spec.tif
+  assetPath: Assets/The-Zavod-2.0/Zavod/Assets/Satellite Dish/textures/1K_Comms_Spec.tif
   uploadId: 26568
